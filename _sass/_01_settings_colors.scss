@@ -33,6 +33,109 @@ $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
 $ci-6: #A1D044;     // green
 
+/*
+https://color.adobe.com/NM-sunset2-color-theme-1247945
+*/
+/* Color Theme Swatches in Hex */
+$NM-sunset2-1-hex: #70A2BB;
+$NM-sunset2-2-hex: #F2E96B;
+$NM-sunset2-3-hex: #C7833A;
+$NM-sunset2-4-hex: #485027;
+$NM-sunset2-5-hex: #270B11;
+
+/* Color Theme Swatches in RGBA */
+$NM-sunset2-1-rgba: rgba(112,161,186, 1);
+$NM-sunset2-2-rgba: rgba(242,232,107, 1);
+$NM-sunset2-3-rgba: rgba(198,130,58, 1);
+$NM-sunset2-4-rgba: rgba(72,79,38, 1);
+$NM-sunset2-5-rgba: rgba(38,10,17, 1);
+
+/* Color Theme Swatches in HSLA */
+$NM-sunset2-1-hsla: hsla(199, 35, 58, 1);
+$NM-sunset2-2-hsla: hsla(55, 83, 68, 1);
+$NM-sunset2-3-hsla: hsla(31, 55, 50, 1);
+$NM-sunset2-4-hsla: hsla(71, 34, 23, 1);
+$NM-sunset2-5-hsla: hsla(347, 56, 9, 1);
+
+/*
+https://color.adobe.com/en/Bleached-color-theme-217098
+*/
+/* Color Theme Swatches in Hex */
+$Bleached-1-hex: #D96849;
+$Bleached-2-hex: #607167;
+$Bleached-3-hex: #E3A85B;
+$Bleached-4-hex: #D6D6B6;
+$Bleached-5-hex: #9C9769;
+
+/* Color Theme Swatches in RGBA */
+$Bleached-1-rgba: rgba(216,103,73, 1);
+$Bleached-2-rgba: rgba(96,112,103, 1);
+$Bleached-3-rgba: rgba(226,168,91, 1);
+$Bleached-4-rgba: rgba(214,214,182, 1);
+$Bleached-5-rgba: rgba(156,151,105, 1);
+
+/* Color Theme Swatches in HSLA */
+$Bleached-1-hsla: hsla(12, 65, 56, 1);
+$Bleached-2-hsla: hsla(144, 8, 40, 1);
+$Bleached-3-hsla: hsla(33, 70, 62, 1);
+$Bleached-4-hsla: hsla(60, 28, 77, 1);
+$Bleached-5-hsla: hsla(54, 20, 51, 1);
+
+/*
+https://color.adobe.com/Keya-Beach-Evening-color-theme-6487868
+*/
+/* Color Theme Swatches in Hex */
+$Keya-Beach-Evening-1-hex: #FADE5F;
+$Keya-Beach-Evening-2-hex: #7EA194;
+$Keya-Beach-Evening-3-hex: #47604C;
+$Keya-Beach-Evening-4-hex: #E37116;
+$Keya-Beach-Evening-5-hex: #A01818;
+
+/* Color Theme Swatches in RGBA */
+$Keya-Beach-Evening-1-rgba: rgba(249,221,94, 1);
+$Keya-Beach-Evening-2-rgba: rgba(126,161,147, 1);
+$Keya-Beach-Evening-3-rgba: rgba(70,96,75, 1);
+$Keya-Beach-Evening-4-rgba: rgba(226,112,21, 1);
+$Keya-Beach-Evening-5-rgba: rgba(160,23,23, 1);
+
+/* Color Theme Swatches in HSLA */
+$Keya-Beach-Evening-1-hsla: hsla(49, 93, 67, 1);
+$Keya-Beach-Evening-2-hsla: hsla(157, 15, 56, 1);
+$Keya-Beach-Evening-3-hsla: hsla(132, 14, 32, 1);
+$Keya-Beach-Evening-4-hsla: hsla(26, 82, 48, 1);
+$Keya-Beach-Evening-5-hsla: hsla(0, 73, 36, 1);
+
+
+/*
+$ci-1: $Bleached-2-hex;
+$ci-2: $Bleached-5-hex;
+$ci-3: $Bleached-3-hex;
+$ci-4: $Bleached-3-hex;
+$ci-5: $Bleached-1-hex;
+$ci-6: $Bleached-4-hex;
+
+$ci-1: $NM-sunset2-5-hex;
+$ci-2: $NM-sunset2-1-hex;
+$ci-3: $NM-sunset2-2-hex;
+$ci-4: $NM-sunset2-2-hex;
+$ci-5: $NM-sunset2-3-hex;
+$ci-6: lighten($NM-sunset2-4-hex, 50);
+*/
+/*
+$ci-1: #334D5C;
+$ci-2: $Keya-Beach-Evening-2-hsla;
+$ci-3: $Keya-Beach-Evening-1-hsla;
+$ci-4: $Keya-Beach-Evening-4-hsla;
+$ci-5: $Keya-Beach-Evening-5-hsla;
+$ci-6: $Keya-Beach-Evening-3-hsla;
+*/
+
+//$ci-1: $NM-sunset2-5-hex;
+$ci-2: #3d85c6;
+//$ci-3: $NM-sunset2-2-hex;
+//$ci-4: $NM-sunset2-2-hex;
+//$ci-5: $NM-sunset2-3-hex;
+$ci-6: #9fc5e8;
 
 
 /* Foundation Color Variables

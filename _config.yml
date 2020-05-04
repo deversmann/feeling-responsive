@@ -17,7 +17,7 @@ slogan: 'The Writings, Ramblings, Speeches and Presentations of Damien Eversmann
 description: 'DamienLIVE is a place where you can find blog posts, videos, photos and more from the mind and heart of Damien Eversmann.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Content Copyright &copy; 2020 Damien Eversmann.<br />Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -64,7 +64,7 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
-permalink          : /:categories/:title/
+permalink          : /blog/:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 include            : ['.htaccess']
@@ -206,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 
 #      _____
